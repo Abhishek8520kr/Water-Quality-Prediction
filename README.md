@@ -96,6 +96,10 @@ These metrics were computed for each target variable.
 
 > *(Include screenshots of confusion matrix, prediction graphs, or feature importances here if available)*  
 > *(e.g., `images/model_performance.png`)*
+> <img width="293" height="532" alt="image" src="https://github.com/user-attachments/assets/08f540ad-6720-469f-8ec6-a6c87ea8765b" />
+> <img width="579" height="587" alt="image" src="https://github.com/user-attachments/assets/cc5c70d2-caca-4096-aacd-e19430b657fd" />
+
+
 
 ---
 
